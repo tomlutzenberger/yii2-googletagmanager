@@ -1,0 +1,21 @@
+{
+    "name": "tomlutzenberger/yii2-googletagmanager",
+    "description": "Yii2 Widget for Google Tag Manager",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","google","tagmanager","analytics","tracking"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Lutzenberger",
+            "email": "lutzenbergerthomas@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TomLutzenberger\\GoogleTagManager\\": ""
+        }
+    }
+}
