@@ -4,18 +4,24 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","google","tagmanager","analytics","tracking"],
     "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Tom Lutzenberger",
-            "email": "lutzenbergerthomas@gmail.com"
+            "email": "lutzenbergertom@gmail.com"
         }
     ],
+    "support": {
+        "source": "https://github.com/tomlutzenberger/yii2-googletagmanager",
+        "issues": "https://github.com/tomlutzenberger/yii2-googletagmanager/issues"
+    },
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
     "autoload": {
         "psr-4": {
-            "TomLutzenberger\\GoogleTagManager\\": ""
+            "TomLutzenberger\\GoogleTagManager\\": "src"
         }
     }
 }
