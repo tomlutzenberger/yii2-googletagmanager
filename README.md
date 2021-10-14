@@ -1,3 +1,13 @@
+![Yii2 Google Tag Manager](logo.png)
+
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tomlutzenberger/yii2-googletagmanager)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/tomlutzenberger/yii2-googletagmanager)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/tomlutzenberger/yii2-googletagmanager)
+![Packagist Downloads](https://img.shields.io/packagist/dt/tomlutzenberger/yii2-googletagmanager)
+![Lines of code](https://img.shields.io/tokei/lines/github/tomlutzenberger/yii2-googletagmanager)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tomlutzenberger_yii2-googletagmanager&metric=alert_status)](https://sonarcloud.io/dashboard?id=tomlutzenberger_yii2-googletagmanager)
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
+
 Yii2 GoogleTagManager
 =====================
 Yii2 Widget for Google Tag Manager
@@ -19,7 +29,7 @@ or add
 "tomlutzenberger/yii2-googletagmanager": "*"
 ```
 
-to the require section of your `composer.json` file.
+to the required section of your `composer.json` file.
 
 
 Usage
