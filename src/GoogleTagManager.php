@@ -37,7 +37,7 @@ class GoogleTagManager extends Widget
             $this->gtmId = Yii::$app->params['gtmId'];
         }
 
-        if (!isset($this->gtmId) || empty($this->gtmId)) {
+        if (empty($this->gtmId)) {
             return '';
         }
 
