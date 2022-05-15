@@ -6,7 +6,7 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/tomlutzenberger/yii2-googletagmanager)
 ![Lines of code](https://img.shields.io/tokei/lines/github/tomlutzenberger/yii2-googletagmanager)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tomlutzenberger_yii2-googletagmanager&metric=alert_status)](https://sonarcloud.io/dashboard?id=tomlutzenberger_yii2-googletagmanager)
-![Maintenance](https://img.shields.io/maintenance/yes/2021)
+![Maintenance](https://img.shields.io/maintenance/yes/2022)
 
 Yii2 GoogleTagManager
 =====================
